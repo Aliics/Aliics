@@ -17,3 +17,4 @@ I like to make things in [Go](https://golang.org).
 
  - Javascript
  - Python (Mostly when using boto3 does it hurt)
+ - Bash (I use it a lot. It's not pleasant)
