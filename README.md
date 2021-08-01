@@ -21,4 +21,5 @@ Sometimes, you have to use one of these.
 Even if it's going to be a bit painful.
 
  - Javascript 💩
+ - Typescript (it could've been something good)
  - Bash
