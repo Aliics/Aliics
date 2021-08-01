@@ -1,20 +1,24 @@
 # Hi!
 
-I like to make things in [Go](https://golang.org).
+I like to make things in many languages, because it's fun.
 
-# Favourite languages
- 
- - Go
- - Scala
+# Languages I Like
+
+If I have a project idea, I'll probably consider using one of these.
+
+ - Scala ❤️
  - Rust
- - Kotlin
- - Java (Nostalgia reasons)
- - Lua (Same as Java)
- - Haskell (I'm terrible at using it, but it's so cool)
- - C (Until I have to link libraries in)
+ - Haskell
+ - Java
+ - Go
+ - Python
+ - Lua
+ - C
 
-# Languages that I can make things in but are often painful to use
+# Languages I don't like
 
- - Javascript
- - Python (Mostly when using boto3 does it hurt)
- - Bash (I use it a lot. It's not pleasant)
+Sometimes, you have to use one of these. 
+Even if it's going to be a bit painful.
+
+ - Javascript 💩
+ - Bash
