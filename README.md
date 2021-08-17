@@ -8,6 +8,7 @@ If I have a project idea, I'll probably consider using one of these.
 
  - Scala ❤️
  - Rust
+ - Kotlin
  - Haskell
  - Java
  - Go
